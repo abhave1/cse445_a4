@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
     <Hotel Rating="4.5">
-        <Name>La Quinta Inn &amp; Suites by Wyndham Phoenix Scottsdale</Name>
+        <Name>La Quinta Inn Suites by Wyndham Phoenix Scottsdale</Name>
         <Phone>480-614-5300</Phone>
         <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>8888</Number>
