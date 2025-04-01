@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+    <Hotel Rating="4.2">
+        <Name>Westin Tempe</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
+            <Number>11</Number>
+            <Street>E 7th Street</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="4.8">
+        <Name>Ritz-Carlton Paradise Valley</Name>
+        <Phone>480-922-3000</Phone>
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
+            <Number>7000</Number>
+            <Street>Lincoln Drive</Street>
+            <City>Paradise Valley</City>
+            <State>AZ</State>
+            <Zip>85253</Zip>
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="4.5">
+        <Name>Arizona Biltmore</Name>
+        <Phone>602-955-6600</Phone>
+        <Phone>800-950-0086</Phone>
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
+            <Number>2400</Number>
+            <Street>E Missouri Avenue</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85016</Zip>
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="4.3">
+        <Name>Hyatt Regency Scottsdale</Name>
+        <Phone>480-444-1234</Phone>
+        <Address NearstAirport="Scottsdale Airport">
+            <Number>7500</Number>
+            <Street>E Doubletree Ranch Road</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85258</Zip>
+        </Address>
+    </Hotel>
+
+    <
+</Hotels>
