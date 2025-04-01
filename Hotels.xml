@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
     <Hotel Rating="4.5">
-        <Name>La Quinta Inn & Suites by Wyndham Phoenix Scottsdale</Name>
+        <Name>La Quinta Inn &amp; Suites by Wyndham Phoenix Scottsdale</Name>
         <Phone>480-614-5300</Phone>
         <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>8888</Number>
@@ -111,7 +111,7 @@
         </Address>
     </Hotel>
     <Hotel Rating="4.2">
-        <Name> Westin </Name>
+        <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
         <Address NearstAirport="Sky Harbor">
