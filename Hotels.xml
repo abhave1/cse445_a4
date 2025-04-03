@@ -3,7 +3,7 @@
     <Hotel Rating="4.5">
         <Name>La Quinta Inn &amp; Suites by Wyndham Phoenix Scottsdale</Name>
         <Phone>480-614-5300</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>8888</Number>
             <Street>E Shea Blvd</Street>
             <City>Scottsdale</City>
@@ -14,7 +14,7 @@
     <Hotel Rating="4.3">
         <Name>HYATT house Scottsdale/Old Town</Name>
         <Phone>480-946-7700</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>4245</Number>
             <Street>N Drinkwater Blvd</Street>
             <City>Scottsdale</City>
@@ -25,7 +25,7 @@
     <Hotel Rating="4.7">
         <Name>The Westin Kierland Resort and Spa</Name>
         <Phone>480-624-1000</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>6902</Number>
             <Street>E Greenway Pkwy</Street>
             <City>Scottsdale</City>
@@ -36,7 +36,7 @@
     <Hotel Rating="4.6">
         <Name>Aiden by Best Western Scottsdale North</Name>
         <Phone>480-314-1200</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>10801</Number>
             <Street>N 89th Pl</Street>
             <City>Scottsdale</City>
@@ -47,7 +47,7 @@
     <Hotel Rating="4.8">
         <Name>The Canyon Suites at The Phoenician, Luxury Collection</Name>
         <Phone>480-941-8200</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>6000</Number>
             <Street>E Camelback Rd</Street>
             <City>Scottsdale</City>
@@ -58,7 +58,7 @@
     <Hotel Rating="4.2">
         <Name>Bespoke Inn Scottsdale</Name>
         <Phone>844-861-6715</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>3701</Number>
             <Street>N Marshall Way Arts District</Street>
             <City>Scottsdale</City>
@@ -69,7 +69,7 @@
     <Hotel Rating="4.5">
         <Name>Aloft Scottsdale</Name>
         <Phone>480-253-3700</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>4415</Number>
             <Street>N Civic Center Plaza</Street>
             <City>Scottsdale</City>
@@ -80,7 +80,7 @@
     <Hotel Rating="4.3">
         <Name>Courtyard by Marriott Scottsdale Old Town</Name>
         <Phone>480-429-7785</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>3311</Number>
             <Street>N Scottsdale Rd Historic Old Town Scottsdale Area</Street>
             <City>Scottsdale</City>
@@ -91,7 +91,7 @@
     <Hotel Rating="4.4">
         <Name>Sheraton Desert Oasis Villas, Scottsdale</Name>
         <Phone>480-515-5888</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>17700</Number>
             <Street>N Hayden Rd Suite A1-A2, Desert Oasis Area</Street>
             <City>Scottsdale</City>
@@ -102,7 +102,7 @@
     <Hotel Rating="4.3">
         <Name>Aloft Phoenix-Airport</Name>
         <Phone>602-275-6300</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>4450</Number>
             <Street>East Washington</Street>
             <City>Phoenix</City>
@@ -114,7 +114,7 @@
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>11</Number>
             <Street>E 7th Street</Street>
             <City>Tempe</City>
